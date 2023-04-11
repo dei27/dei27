@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Golang and Vue.js 3**
 
-- 👨‍💻 All of my projects are available at [https://porfafolio.netlify.app/](https://porfafolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portafolio-dcb.netlify.app/)
 
 - 📫 How to reach me **deivicb81@gmail.com**
 
